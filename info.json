@@ -1,0 +1,24 @@
+{
+  "listBlockUser": [
+  ],
+  "author": "Home_Family",
+  "newVersion": "BETA_0.0.3",
+  "headerNotification": "Up xu tháng đại, Up Xu Ngày, Nạp Carot, Làm Sự Kiện, Làm Nhiệm Vụ Tháng thanh toán hoàn toàn tự động tại",
+  "dialogNotification": "Chúc Các Bạn Chơi Game Vui Vẻ",
+  "npcList": [
+    {
+      "name": "nha.hien.triet"
+    }
+  ],
+  "dataMapNPC": [11, 7, 1, 2, 3, 8, 9],
+  "admins": [
+    {
+      "name": "noverify",
+      "blogNews": 0
+    },
+    {
+      "name": "testers",
+      "blogNews": 0
+    }
+  ]
+}
