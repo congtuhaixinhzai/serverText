@@ -1,4 +1,4 @@
 *Avatar Tuổi Thơ
-Avatartest:160.22.106.103:19128
-Avatartest:160.22.106.103:19128
+AvatarToro:160.22.106.103:19128
+AvatarToro:160.22.106.103:19128
 
