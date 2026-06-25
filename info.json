@@ -3,8 +3,8 @@
   ],
   "author": "Home_Family",
   "newVersion": "BETA_0.0.3",
-  "headerNotification": "Up xu tháng đại, Up Xu Ngày, Nạp Carot, Làm Sự Kiện, Làm Nhiệm Vụ Tháng thanh toán hoàn toàn tự động tại",
-  "dialogNotification": "Chúc Các Bạn Chơi Game Vui Vẻ",
+  "headerNotification": "Chào mừng bạn đến với Avatar! Trải nghiệm ngay các dịch vụ: Up xu tháng/ngày, Nạp lượng/carot, Cày thuê sự kiện và Làm nhiệm vụ hoàn toàn tự động, nhanh chóng tại website của chúng tôi.",
+  "dialogNotification": "Phiên bản hiện tại đã cũ. Hệ thống yêu cầu cập nhật lên phiên bản mới nhất để đảm bảo kết nối ổn định. Bạn có muốn cập nhật ngay bây giờ?",
   "npcList": [
     {
       "name": "nha.hien.triet"
