@@ -1,4 +1,5 @@
 *Avatar Farm
-Avatar Farm:160.191.242.130:19128
-Avatar Farm:160.191.242.130:19128
-
+AvatarFarm:160.191.242.130:19128
+*Avatar Farm
+AvatarFarm:160.191.242.130:19128;
+_
