@@ -1,0 +1,16 @@
+{
+  "app_name": "HC Studio - MyBeautyHC",
+  "latest_version": "2.1.0",
+  "min_required_version": "2.0.0",
+  "force_update": true,
+  "download_url": "https://github.com/your-username/your-repo/releases/latest",
+  "release_date": "2026-09-16",
+  "release_notes": [
+    "• Cập nhật tương thích Douyin Live Studio 13.x mới nhất",
+    "• Tối ưu tốc độ mở ứng dụng tức thì dưới 1 giây",
+    "• Bổ sung 15 bộ lọc làm đẹp và nâng tông da mới",
+    "• Vá lỗi bảo mật và tăng tốc độ đường truyền Proxy"
+  ],
+  "is_maintenance": false,
+  "maintenance_message": "Hệ thống đang bảo trì máy chủ Proxy định kỳ. Vui lòng quay lại sau ít phút!"
+}
