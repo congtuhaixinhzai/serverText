@@ -6,10 +6,12 @@
   "download_url": "https://github.com/congtuhaixinhzai/serverText/releases/latest",
   "release_date": "2026-09-16",
   "release_notes": [
-    "• Phiên bản khởi đầu v0.0.1",
-    "• Tối ưu tốc độ mở ứng dụng tức thì dưới 1 giây",
-    "• Tích hợp tính năng tự động kiểm tra phiên bản trực tuyến"
+    "🚀 Tốc độ bứt phá: Khởi động tức thì dưới 1 giây, loại bỏ hoàn toàn độ trễ.",
+    "✨ Giao diện Cyber Dark: Thiết kế đồ họa hiện đại, sang trọng và chuẩn streamer.",
+    "🔄 Auto-Update 4.0: Tự động phát hiện và nâng cấp bản mới 1 chạm siêu mượt mà.",
+    "🛡️ Bảo mật tối tân: Nâng cấp luồng mã hóa AES-256 & Smart Launcher thế hệ mới.",
+    "⚡ Đường truyền ổn định: Hệ thống Proxy tốc độ cao, livestream mượt mà không lo giật lag."
   ],
   "is_maintenance": false,
-  "maintenance_message": "Hệ thống đang bảo trì máy chủ Proxy định kỳ. Vui lòng quay lại sau ít phút!"
+  "maintenance_message": "Hệ thống máy chủ Proxy đang bảo trì nâng cấp định kỳ. Vui lòng quay lại sau ít phút!"
 }
